@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "dev": "parcel index.html"
+    "dev": "parcel index.html",
+    "build": "parcel build index.html --dist-dir=docs"
   },
   "dependencies": {
     "@tonconnect/ui": "^2.0.3"
