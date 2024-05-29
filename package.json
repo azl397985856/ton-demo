@@ -1,7 +1,7 @@
 {
   "scripts": {
     "dev": "parcel index.html --no-cache",
-    "build": "parcel build index.html --dist-dir=docs --no-cache",
+    "build": "parcel build index.html --dist-dir=docs --no-cache --public-url=./",
     "pages": "yarn build && git add . && git commit -am 'pages' && git push"
   },
   "dependencies": {
