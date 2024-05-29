@@ -19,7 +19,7 @@ tonConnectUI.uiOptions = {
                 tondns: "",
                 aboutUrl: "https://www.safepal.com",
                 jsBridgeKey: "tonkeeper1234",
-                platforms: ["ios", "android", "chrome", "firefox"]
+                platforms: ["macos"]
             },
             {
                 appName: "new-wallet",
@@ -28,7 +28,7 @@ tonConnectUI.uiOptions = {
                 tondns: "",
                 aboutUrl: "https://www.safepal.com",
                 jsBridgeKey: "tonkeeper123",
-                platforms: ["ios", "android", "chrome", "firefox"]
+                platforms: ["macos"]
             }
         ]
     }
