@@ -2390,7 +2390,7 @@
 76/workspaces/ton-demo/node_modules/@swc/helpers/cjs/_class_name_tdz_error.cjs1716984770778000000 0
 82/workspaces/ton-demo/node_modules/@babel/highlight/node_modules/chalk/templates.js1716984780441999000 0
 60/workspaces/ton-demo/node_modules/tslib/modules/package.json1716984779437000000 0
-36/workspaces/ton-demo/dist/index.html1716985474771663646 0
+36/workspaces/ton-demo/dist/index.html1716986201063692108 0
 67/workspaces/ton-demo/node_modules/htmlparser2/lib/WritableStream.js1716984776569999000 0
 68/workspaces/ton-demo/node_modules/ua-parser-js/dist/ua-parser.min.js1716984340469000000 0
 51/workspaces/ton-demo/node_modules/json5/lib/util.js1716984762006999000 0
@@ -2453,7 +2453,7 @@
 52/workspaces/ton-demo/node_modules/escalade/readme.md1716984779180999000 0
 40/workspaces/ton-demo/node_modules/@lezer1716984790815636843 1
 87/workspaces/ton-demo/node_modules/@parcel/runtime-js/lib/helpers/browser/wasm-loader.js1716984763316999000 0
-47/workspaces/ton-demo/dist/index.8e9bd240.js.map1716985480799663882 0
+47/workspaces/ton-demo/dist/index.8e9bd240.js.map1716986201071692108 0
 65/workspaces/ton-demo/node_modules/caniuse-lite/data/regions/WF.js1716984769125000000 0
 109/workspaces/ton-demo/node_modules/@parcel/source-map/parcel_sourcemap_wasm/dist-node/parcel_sourcemap_wasm.js1716984762641000000 0
 76/workspaces/ton-demo/node_modules/entities/lib/generated/decode-data-html.js1716984780354000000 0
@@ -2538,7 +2538,7 @@
 65/workspaces/ton-demo/node_modules/@parcel/runtime-browser-hmr/src1716984792591636913 1
 76/workspaces/ton-demo/node_modules/@swc/helpers/_/_object_destructuring_empty1716984793563636951 1
 68/workspaces/ton-demo/node_modules/@mischnic/json-sourcemap/README.md1716984762865000000 0
-43/workspaces/ton-demo/dist/index.8e9bd240.js1716985480795663882 0
+43/workspaces/ton-demo/dist/index.8e9bd240.js1716986201067692108 0
 87/workspaces/ton-demo/node_modules/@parcel/reporter-dev-server/lib/ServerReporter.js.map1716984762309000000 0
 61/workspaces/ton-demo/node_modules/utility-types/dist/index.js1716984769500000000 0
 59/workspaces/ton-demo/node_modules/@parcel/core/lib/requests1716984793631636953 1
@@ -2548,7 +2548,7 @@
 51/workspaces/ton-demo/node_modules/ua-parser-js/dist1716984341743619245 1
 81/workspaces/ton-demo/node_modules/@swc/helpers/_/_object_without_properties_loose1716984793567636951 1
 53/workspaces/ton-demo/node_modules/@lezer/lr/README.md1716984769795000000 0
-25/workspaces/ton-demo/dist1716985480799663882 1
+25/workspaces/ton-demo/dist1716986201075692108 1
 55/workspaces/ton-demo/node_modules/msgpackr/dist/test.js1716984762450000000 0
 48/workspaces/ton-demo/node_modules/type-fest/ts411716984793047636930 1
 65/workspaces/ton-demo/node_modules/caniuse-lite/data/regions/AW.js1716984769125000000 0
@@ -2694,7 +2694,7 @@
 64/workspaces/ton-demo/node_modules/@parcel/cache/lib/constants.js1716984762138999000 0
 68/workspaces/ton-demo/node_modules/dom-serializer/lib/foreignNames.js1716984780005000000 0
 67/workspaces/ton-demo/node_modules/@parcel/packager-css/package.json1716984763072000000 0
-33/workspaces/ton-demo/package.json1716986021087685055 0
+33/workspaces/ton-demo/package.json1716986197899691984 0
 77/workspaces/ton-demo/node_modules/caniuse-lite/data/features/css-gradients.js1716984769125000000 0
 87/workspaces/ton-demo/node_modules/@parcel/utils/test/input/sourcemap/source-root.js.map1716984762252000000 0
 65/workspaces/ton-demo/node_modules/caniuse-lite/data/regions/AZ.js1716984769125000000 0
